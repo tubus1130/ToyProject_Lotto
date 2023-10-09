@@ -6,12 +6,13 @@
 - 프로젝트 이름 : Lotto
 - 개발기간 : 2021.03 ~ 2021.04
 - 프로젝트 규모 : 개인 프로젝트
-- 개발 언어
-<div>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-</div>
+- 개발 언어 : 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+
+- 개발 도구 :
+  <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white">
 
 ## 📌 기능시연
 ### 1. 메인화면
