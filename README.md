@@ -13,8 +13,10 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </div>
 
-## 📌 결과물
+## 📌 기능시연
+### 1. 메인화면
 ![image](https://github.com/tubus1130/ToyProject_Lotto/assets/50819376/53d707ba-a513-4783-876d-865b87bdf28c)
+### 2. 번호추출
 ![image](https://github.com/tubus1130/ToyProject_Lotto/assets/50819376/589be8c7-7c41-4f3d-a232-30de74019c0b)
 
 ## 📌 기타
